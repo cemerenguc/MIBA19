@@ -1,6 +1,6 @@
 # MIBA resources
 
-## Pre-course:
+## Intro to R:
 * [R style guide](https://irudnyts.github.io//r-coding-style-guide/)
 * [Datacamp data.table cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/img/blog/data+table+cheat+sheet.pdf)
 * [Datacamp data.table cheatsheet, another version](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/datatable_Cheat_Sheet_R.pdf)
@@ -11,4 +11,5 @@
   + [RStudio data wrangling cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 * Working with dates: `lubridate`
 * Working with strings: `stringr` and regular expressions!!
-* More strings!! [How to work with strings in base R - An overview of 20+ methods for daily use](https://jozefhajnala.gitlab.io/r/r007-string-manipulation/)
+* More strings!! [How to work with strings in base R - An overview of 20+ methods for daily use](https://jozefhajnala.gitlab.io/r/r007-string-manipulation/)  
+* Finantial data using `quantmod` and [Quandl](https://github.com/quandl/quandl-r). See [Quandl homepage](https://www.quandl.com/) for more details.  
